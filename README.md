@@ -1,5 +1,7 @@
 pip install yfinance
+
 pip install statsmodel
+
 pip install matplotlib pandas numpy
 
 All of these are required for the jupyter notebook to run successfully
